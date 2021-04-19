@@ -1,0 +1,17 @@
+/* As hex codes */
+
+.color-primary-0 { color: #56C9A4 }	/* Main Primary color */
+.color-primary-1 { color: #006F4B }
+.color-primary-2 { color: #1CA97B }
+.color-primary-3 { color: #ADECD8 }
+.color-primary-4 { color: #FFFFFF }
+
+
+
+/* As RGBa codes */
+
+.rgba-primary-0 { color: rgba( 86,201,164,1) }	/* Main Primary color */
+.rgba-primary-1 { color: rgba(  0,111, 75,1) }
+.rgba-primary-2 { color: rgba( 28,169,123,1) }
+.rgba-primary-3 { color: rgba(173,236,216,1) }
+.rgba-primary-4 { color: rgba(255,255,255,1) }
