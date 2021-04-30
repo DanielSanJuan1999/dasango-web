@@ -15,3 +15,13 @@
 .rgba-primary-2 { color: rgba( 28,169,123,1) }
 .rgba-primary-3 { color: rgba(173,236,216,1) }
 .rgba-primary-4 { color: rgba(255,255,255,1) }
+
+.fas{
+    font-size: 300%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.boxes{
+    margin-bottom: 20px;
+}
